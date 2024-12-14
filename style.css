@@ -130,7 +130,7 @@ label.task {
 /* Completed */
 #complited label {
   text-decoration: line-through;
-    color: #888;
+  color: #888;
 }
 
 /* Edit Task */
