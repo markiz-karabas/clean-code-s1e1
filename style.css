@@ -30,7 +30,7 @@ body {
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 .add-task__form {
   display: flex;
@@ -111,7 +111,7 @@ input[type="checkbox"] {
   margin: 0 10px;
 }
 input[type="text"] {
-  width: 226px
+  width: 226px;
 }
 label.task {
   padding-left: 10px;
@@ -136,12 +136,12 @@ label.task {
 
 /* Edit Task */
 li input[type=text] {
-  display: none
+  display: none;
 }
 
 .edit-mode input[type=text] {
   display:inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .edit-mode label {
