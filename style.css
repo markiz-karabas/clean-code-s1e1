@@ -118,17 +118,17 @@ li > label {
 li >    input[type="text"] {
   width: 226px
 }
-button.delete-btn img {
+button.del-btn img {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
-button.delete-btn img:hover {
+button.del-btn img:hover {
   transform: rotateZ(0);
 }
 
 /* Completed */
-ul#complited-task-list label {
+ul#complited label {
   text-decoration: line-through;
     color: #888;
 }
